@@ -96,7 +96,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 For inquiries or contributions, please contact:
 
-- **Praveen K**: Praveen@nitk.edu.in
+- **Praveen K**: praveenk.211ai028@nitk.edu.in
 - **Aditya Narayansetti**: aditya.211ai005@nitk.edu.in
 
 ---
